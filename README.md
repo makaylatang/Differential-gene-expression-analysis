@@ -19,3 +19,8 @@ using limma package (Ritchie ME et al., 2015). We considered a DE significant ge
 Note: 
 -	Surrogate variables are covariates constructed directly from high-dimensional data (like gene expression/RNA sequencing/methylation/brain imaging data) that can be used in subsequent analyses to adjust for unknown, unmodeled, or latent sources of noise. 
 -	n.sv is the number of latent factors that need to be estimated (number of surrogate variables) 
+
+## Visualization
+
+- PCA
+- Volcano Plot
