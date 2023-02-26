@@ -10,7 +10,6 @@ Total Samples: 2 replicates for each tissue
 ## Method
 
 For each pairwise analysis, we filtered out non-expressed and low-expressed genes.
-Note: rm = rowMeans(mRNA2_meat) == 0
 
 The surrogate variables (batch effects) were estimated by the SVA package (Leek JT et al., 2022)
 and adopted in the DE analysis model. The DE analysis and normalization data were performed
