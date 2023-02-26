@@ -14,7 +14,7 @@ Note: rm = rowMeans(mRNA2_meat) == 0
 
 The surrogate variables (batch effects) were estimated by the SVA package (Leek JT et al., 2022)
 and adopted in the DE analysis model. The DE analysis and normalization data were performed
-using (Ritchie ME et al., 2015). We considered a DE significant gene showed FDR < 0.05.
+using limma package (Ritchie ME et al., 2015). We considered a DE significant gene showed FDR < 0.05.
 
 Note: 
 -	Surrogate variables are covariates constructed directly from high-dimensional data (like gene expression/RNA sequencing/methylation/brain imaging data) that can be used in subsequent analyses to adjust for unknown, unmodeled, or latent sources of noise. 
