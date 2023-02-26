@@ -1,8 +1,10 @@
 # Differential-gene-expression-analysis
 
-## Chicken Analysis Reports
+## 🐥 Chicken Analysis Reports
 Organism: Gallus gallus
+
 Tissues: Intestine, Meat, Reproductive Tissues, Macrophage and Monocyte
+
 Total Samples: 2 replicates for each tissue
 
 ## Method
